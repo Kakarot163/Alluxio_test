@@ -1,0 +1,5 @@
+bin/alluxio-fuse
+src/alluxio.org/build-artifact
+src/alluxio.org/checkdocs
+pkg/
+
